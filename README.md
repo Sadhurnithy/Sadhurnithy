@@ -1,8 +1,3 @@
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sadhurnithy&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sadhurnithy&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadhurnithy&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <h4 align="left">Hi👋! Myself is Sathurnithy S,<br><br>Junior Software Developer |  Passionate about Full Stack Development | Focused on building efficient and scalable web application</h4>
 
 ###
