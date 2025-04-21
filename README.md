@@ -45,6 +45,9 @@
   <a href="https://www.hackerrank.com/profile/sathurnithy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="35" height="35" alt="hackerrank logo"  />
   </a>
+  <a href="https://www.leetcode.com/profile/sathurnithy" target="_blank">
+    <img src="https://commons.wikimedia.org/wiki/File:LeetCode_Logo_1.png" width="35" height="35" alt="Leetcode logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/sathurnithy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  />
   </a>
