@@ -1,4 +1,4 @@
-<h4 align="left">Hi👋! Myself is Sathurnithy S,<br><br>Junior Software Developer |  Passionate about Full Stack Development | Focused on building efficient and scalable web application</h4>
+<h4 align="left">Hi👋! Myself Sathurnithy S,<br><br>Junior Software Developer |  Passionate about Full Stack Development | Focused on building efficient and scalable web application</h4>
 
 ###
 
